@@ -1,2 +1,2 @@
-# NTP-Kullan-larak-Geli-tirilmi--Bir-Uygulama
+# NTP Tabanlı Kütüphane Uygulaması
 C++ kullanılarak geliştirilmiş bir kütüphane uygulaması
